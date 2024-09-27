@@ -9,8 +9,8 @@ Este proyecto permite gestionar productos utilizando programación orientada a o
   
 ## Instalación
 
-1. Clona este repositorio: git clone https://github.com/QuBiit0/laboratorioADD.git
-2. Navega al directorio del proyecto: cd laboratorioADD
+1. Clona este repositorio: git clone https://github.com/QuBiit0/gestor_productos.git
+2. Navega al directorio del proyecto: cd gestor_productos
 3. Ejecuta el archivo principal: python main.py
 
 
